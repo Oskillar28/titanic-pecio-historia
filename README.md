@@ -5,7 +5,7 @@
 ### Estudio divulgativo: el barco, el hundimiento, las expediciones, el estado actual del pecio, la vida a 3.800 metros y el debate sobre qué hacer con lo que queda
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg" width="760" alt="El Titanic saliendo de Southampton, abril de 1912">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg/1280px-RMS_Titanic_3_%28cropped_to_ship%29.jpg" width="760" alt="El Titanic saliendo de Southampton, abril de 1912">
   <br><sub><i>El RMS Titanic zarpando de Southampton el 10 de abril de 1912. Fotografía de dominio público (Wikimedia Commons).</i></sub>
 </p>
 
@@ -248,7 +248,7 @@ Durante 73 años nadie sabía exactamente dónde estaba. Varias expediciones con
 ## 8. La tragedia del sumergible Titan (2023)
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Titan_submersible_on_the_ocean_floor.jpg" width="420" alt="Restos del Titan en el fondo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Titan_submersible_on_the_ocean_floor.jpg/960px-Titan_submersible_on_the_ocean_floor.jpg" width="420" alt="Restos del Titan en el fondo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Wreckage_of_Titan_submersible_aft_section.png" width="420" alt="Sección de popa del Titan recuperada">
   <br><sub><i>Restos del sumergible Titan en el fondo marino y su sección de popa recuperada. Dominio público (Guardia Costera de EE. UU.).</i></sub>
 </p>
@@ -360,7 +360,7 @@ En el verano de 2022 (presentado en 2023), la empresa de cartografía submarina 
 ### 12.2 Los “comedores de hierro”: rusticles y *Halomonas titanicae*
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Detached_rusticles_hires.jpg" width="550" alt="Rusticles desprendidos">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Detached_rusticles_hires.jpg/960px-Detached_rusticles_hires.jpg" width="550" alt="Rusticles desprendidos">
   <br><sub><i>“Rusticles” desprendidos del casco. NOAA / dominio público.</i></sub>
 </p>
 

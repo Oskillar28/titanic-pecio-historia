@@ -5,7 +5,7 @@
 ### An educational study: the ship, the sinking, the expeditions, the current state of the wreck, life at 3,800 metres, and the debate over what to do with what remains
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg" width="760" alt="Titanic leaving Southampton, April 1912">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg/1280px-RMS_Titanic_3_%28cropped_to_ship%29.jpg" width="760" alt="Titanic leaving Southampton, April 1912">
   <br><sub><i>RMS Titanic leaving Southampton on 10 April 1912. Public-domain photograph (Wikimedia Commons).</i></sub>
 </p>
 
@@ -248,7 +248,7 @@ For 73 years nobody knew exactly where it was. Several sonar expeditions failed 
 ## 8. The Titan submersible tragedy (2023)
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Titan_submersible_on_the_ocean_floor.jpg" width="420" alt="Titan debris on the seabed">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Titan_submersible_on_the_ocean_floor.jpg/960px-Titan_submersible_on_the_ocean_floor.jpg" width="420" alt="Titan debris on the seabed">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Wreckage_of_Titan_submersible_aft_section.png" width="420" alt="Recovered aft section of Titan">
   <br><sub><i>Debris of the Titan submersible on the seabed and its recovered aft section. Public domain (US Coast Guard).</i></sub>
 </p>
@@ -360,7 +360,7 @@ So what do they live on? **Marine snow**: remains of plankton, faeces and dead o
 ### 12.2 The “iron eaters”: rusticles and *Halomonas titanicae*
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Detached_rusticles_hires.jpg" width="550" alt="Detached rusticles">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Detached_rusticles_hires.jpg/960px-Detached_rusticles_hires.jpg" width="550" alt="Detached rusticles">
   <br><sub><i>“Rusticles” detached from the hull. NOAA / public domain.</i></sub>
 </p>
 
