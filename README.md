@@ -249,8 +249,8 @@ Durante 73 años nadie sabía exactamente dónde estaba. Varias expediciones con
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Titan_submersible_on_the_ocean_floor.jpg/960px-Titan_submersible_on_the_ocean_floor.jpg" width="420" alt="Restos del Titan en el fondo">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Wreckage_of_Titan_submersible_aft_section.png" width="420" alt="Sección de popa del Titan recuperada">
-  <br><sub><i>Restos del sumergible Titan en el fondo marino y su sección de popa recuperada. Dominio público (Guardia Costera de EE. UU.).</i></sub>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Wreckage_of_Titan_submersible_aft_section.png" width="420" alt="Restos de la sección de popa del Titan">
+  <br><sub><i>Restos del sumergible Titan en el fondo marino, a unos 3.775 m: el cono de cola y los restos de la sección de popa, grabados por un robot el 22 de junio de 2023. Dominio público (Guardia Costera de EE. UU.).</i></sub>
 </p>
 
 ### 8.1 Qué pasó
@@ -279,7 +279,7 @@ En el verano de 2022 (presentado en 2023), la empresa de cartografía submarina 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Titanic_wreck_model.jpg" width="650" alt="Maqueta del pecio">
-  <br><sub><i>Maqueta del pecio mostrando proa y popa separadas. (Las imágenes oficiales del escaneo 3D tienen copyright de Atlantic Productions/Magellan y no se reproducen aquí.)</i></sub>
+  <br><sub><i>Maqueta de la proa del pecio, clavada en el fondo, en una exposición. (Las imágenes oficiales del escaneo 3D tienen copyright de Atlantic Productions/Magellan y no se reproducen aquí.)</i></sub>
 </p>
 
 **Hallazgos principales:**
@@ -318,7 +318,7 @@ En el verano de 2022 (presentado en 2023), la empresa de cartografía submarina 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Captain_Smith%27s_bathroom.jpg" width="460" alt="Bañera del capitán Smith">
-  <br><sub><i>La bañera del capitán Smith fotografiada en 2003. NOAA / dominio público.</i></sub>
+  <br><sub><i>La bañera del capitán Smith entre los restos de su camarote. Dominio público (Wikimedia Commons).</i></sub>
 </p>
 
 ### 10.3 ¿Cuándo desaparecerá? (análisis crítico)
@@ -613,7 +613,7 @@ Todas las imágenes se cargan desde **Wikimedia Commons**. Haz clic en cada enla
 | Patrulla del Hielo | [File:USCG_International_Ice_Patrol_C-130.jpg](https://commons.wikimedia.org/wiki/File:USCG_International_Ice_Patrol_C-130.jpg) |
 | Sumergible Alvin | [File:ALVIN_submersible.jpg](https://commons.wikimedia.org/wiki/File:ALVIN_submersible.jpg) |
 | Restos del Titan | [File:Titan_submersible_on_the_ocean_floor.jpg](https://commons.wikimedia.org/wiki/File:Titan_submersible_on_the_ocean_floor.jpg) |
-| Popa del Titan | [File:Wreckage_of_Titan_submersible_aft_section.png](https://commons.wikimedia.org/wiki/File:Wreckage_of_Titan_submersible_aft_section.png) |
+| Restos de la popa del Titan | [File:Wreckage_of_Titan_submersible_aft_section.png](https://commons.wikimedia.org/wiki/File:Wreckage_of_Titan_submersible_aft_section.png) |
 | Maqueta del pecio | [File:Titanic_wreck_model.jpg](https://commons.wikimedia.org/wiki/File:Titanic_wreck_model.jpg) |
 | Proa en el fondo | [File:Titanic_wreck_bow.jpg](https://commons.wikimedia.org/wiki/File:Titanic_wreck_bow.jpg) |
 | Bañera del capitán | [File:Captain_Smith's_bathroom.jpg](https://commons.wikimedia.org/wiki/File:Captain_Smith%27s_bathroom.jpg) |

@@ -249,8 +249,8 @@ For 73 years nobody knew exactly where it was. Several sonar expeditions failed 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Titan_submersible_on_the_ocean_floor.jpg/960px-Titan_submersible_on_the_ocean_floor.jpg" width="420" alt="Titan debris on the seabed">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Wreckage_of_Titan_submersible_aft_section.png" width="420" alt="Recovered aft section of Titan">
-  <br><sub><i>Debris of the Titan submersible on the seabed and its recovered aft section. Public domain (US Coast Guard).</i></sub>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Wreckage_of_Titan_submersible_aft_section.png" width="420" alt="Remains of Titan's aft section">
+  <br><sub><i>Debris of the Titan submersible on the seabed at about 3,775 m: the tail cone and the remains of the aft section, filmed by a robot on 22 June 2023. Public domain (US Coast Guard).</i></sub>
 </p>
 
 ### 8.1 What happened
@@ -279,7 +279,7 @@ In summer 2022 (unveiled in 2023) the deep-sea mapping company **Magellan** and 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Titanic_wreck_model.jpg" width="650" alt="Model of the wreck">
-  <br><sub><i>Model of the wreck showing the separated bow and stern. (The official 3D scan images are copyrighted by Atlantic Productions/Magellan and are not reproduced here.)</i></sub>
+  <br><sub><i>Model of the wreck's bow, driven into the seabed, at an exhibition. (The official 3D scan images are copyrighted by Atlantic Productions/Magellan and are not reproduced here.)</i></sub>
 </p>
 
 **Main findings:**
@@ -318,7 +318,7 @@ In summer 2022 (unveiled in 2023) the deep-sea mapping company **Magellan** and 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Captain_Smith%27s_bathroom.jpg" width="460" alt="Captain Smith's bathtub">
-  <br><sub><i>Captain Smith's bathtub photographed in 2003. NOAA / public domain.</i></sub>
+  <br><sub><i>Captain Smith's bathtub among the remains of his cabin. Public domain (Wikimedia Commons).</i></sub>
 </p>
 
 ### 10.3 When will it disappear? (critical analysis)
@@ -613,7 +613,7 @@ All images load from **Wikimedia Commons**. Click each link to see the exact aut
 | Ice Patrol | [File:USCG_International_Ice_Patrol_C-130.jpg](https://commons.wikimedia.org/wiki/File:USCG_International_Ice_Patrol_C-130.jpg) |
 | Alvin submersible | [File:ALVIN_submersible.jpg](https://commons.wikimedia.org/wiki/File:ALVIN_submersible.jpg) |
 | Titan debris | [File:Titan_submersible_on_the_ocean_floor.jpg](https://commons.wikimedia.org/wiki/File:Titan_submersible_on_the_ocean_floor.jpg) |
-| Titan aft section | [File:Wreckage_of_Titan_submersible_aft_section.png](https://commons.wikimedia.org/wiki/File:Wreckage_of_Titan_submersible_aft_section.png) |
+| Titan aft-section remains | [File:Wreckage_of_Titan_submersible_aft_section.png](https://commons.wikimedia.org/wiki/File:Wreckage_of_Titan_submersible_aft_section.png) |
 | Wreck model | [File:Titanic_wreck_model.jpg](https://commons.wikimedia.org/wiki/File:Titanic_wreck_model.jpg) |
 | Bow on the seabed | [File:Titanic_wreck_bow.jpg](https://commons.wikimedia.org/wiki/File:Titanic_wreck_bow.jpg) |
 | Captain's bathtub | [File:Captain_Smith's_bathroom.jpg](https://commons.wikimedia.org/wiki/File:Captain_Smith%27s_bathroom.jpg) |
